@@ -8,11 +8,11 @@
 
 ## 📖 Sobre o projeto
 
-O **Ultrasonic Insect Repeller** é um projeto desenvolvido para a disciplina de Eletrônica e Programação com o objetivo de construir um dispositivo capaz de emitir sinais ultrassônicos utilizando um microcontrolador ESP32 e um transdutor piezoelétrico.
+O **Ultrasonic Insect Repeller**  é um projeto desenvolvido para a disciplina de Eletrônica e Programação com o objetivo de construir um dispositivo capaz de emitir sinais ultrassônicos utilizando um microcontrolador ESP32 e um transdutor piezoelétrico.
 
 O projeto integra conceitos de eletrônica embarcada, programação em microcontroladores e controle de sinais digitais, resultando em um dispositivo portátil alimentado por bateria recarregável.
 
-> **Observação:** Este projeto tem caráter experimental. Seu principal objetivo é estudar a geração de sinais ultrassônicos utilizando um ESP32. O projeto não busca comprovar a eficácia da repelência de insetos por ultrassom.
+> **Observação:**  Este projeto tem caráter experimental. Seu principal objetivo é estudar a geração de sinais ultrassônicos utilizando um ESP32. O projeto não busca comprovar a eficácia da repelência de insetos por ultrassom.
 
 ---
 
