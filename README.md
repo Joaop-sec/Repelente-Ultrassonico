@@ -1,5 +1,3 @@
-# Repelente-Ultrassônico
-
 # Ultrasonic Insect Repeller
 
 > Protótipo experimental de um emissor de ultrassom baseado em ESP32 para estudo da geração de sinais de alta frequência.
