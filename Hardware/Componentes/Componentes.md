@@ -27,7 +27,7 @@ Sua capacidade de gerar sinais PWM com precisão torna o ESP32 adequado para apl
 
 # Transdutor Piezoelétrico
 
-![Piezo](piezo.jpg)
+![Piezo](Piezoelétrico.jpg)
 
 ## Descrição
 
