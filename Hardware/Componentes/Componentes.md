@@ -43,7 +43,7 @@ O sinal PWM produzido pelo microcontrolador é aplicado diretamente ao transduto
 
 # Módulo TP4056
 
-![TP4056](tp4056.jpg)
+![TP4056](Módulo TP3056.jpg)
 
 ## Descrição
 
@@ -59,7 +59,7 @@ Além disso, oferece proteção contra sobrecarga durante o processo de carregam
 
 # Bateria Li-ion 18650
 
-![Bateria](bateria18650.jpg)
+![Bateria](Bateria - Li-ion 18650.jpg)
 
 ## Descrição
 
