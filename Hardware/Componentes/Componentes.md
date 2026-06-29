@@ -59,7 +59,7 @@ Além disso, oferece proteção contra sobrecarga durante o processo de carregam
 
 # Bateria Li-ion 18650
 
-![Bateria](Bateria - Li-ion 18650.jpg)
+![Bateria](Bateria18650.jpg)
 
 ## Descrição
 
