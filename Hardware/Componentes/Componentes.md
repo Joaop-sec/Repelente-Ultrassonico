@@ -6,7 +6,7 @@ Este documento apresenta os principais componentes utilizados no desenvolvimento
 
 # ESP32
 
-![ESP32](esp32.jpg)
+![ESP32](ESP32.jpg)
 
 ## Descrição
 
