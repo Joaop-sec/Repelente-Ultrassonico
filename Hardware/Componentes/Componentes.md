@@ -43,7 +43,7 @@ O sinal PWM produzido pelo microcontrolador é aplicado diretamente ao transduto
 
 # Módulo TP4056
 
-![TP4056](Módulo TP3056.jpg)
+![TP4056](MóduloTP3056.jpg)
 
 ## Descrição
 
