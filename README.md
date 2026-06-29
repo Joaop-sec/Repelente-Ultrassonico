@@ -37,13 +37,10 @@ Durante a execução, o firmware seleciona frequências na faixa de **20 kHz a 4
 
 Os principais componentes utilizados são:
 
- - ESP32 - Controle do sistema
-
- - Piezoelétrico - Emissão das ondas ultrassônicas 
-
- - Módulo TP4056 - Carregamento da bateria
-
- - Chave liga/desliga - Controle de energi
+- ESP32 - Controle do sistema
+- Piezoelétrico - Emissão das ondas ultrassônicas 
+- Módulo TP4056 - Carregamento da bateria
+- Chave liga/desliga - Controle de energia
 
 ---
 
